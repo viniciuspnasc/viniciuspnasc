@@ -17,10 +17,10 @@ Procuro uma vaga de **estágio ou júnior** em desenvolvimento.
 
 ## O que eu uso
 
-**Web:** JavaScript, HTML, CSS, APIs REST
-**Dados:** SQL, MySQL, Supabase (PostgreSQL)
-**Deploy:** Netlify, Cloudflare Workers, Aiven
-**Também já estudei:** Java, Kotlin (Android Studio), C# (Unity)
+- **Web:** JavaScript, HTML, CSS, APIs REST
+- **Dados:** SQL, MySQL, Supabase (PostgreSQL)
+- **Deploy:** Netlify, Cloudflare Workers, Aiven
+- **Também já estudei:** Java, Kotlin (Android Studio), C# (Unity)
 
 ## Agora
 
