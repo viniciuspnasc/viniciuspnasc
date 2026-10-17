@@ -12,7 +12,7 @@ Procuro uma vaga de **estágio ou júnior** em desenvolvimento.
 |---|---|---|
 | [**FaroMaps**](https://github.com/viniciuspnasc/faromaps) | App web (PWA) que uso no dia a dia da Faro Digital: encontra comércios ao redor pelo GPS, dá uma nota de 0 a 100 para o perfil de cada um no Google e controla vendas, retornos e lucro. | JavaScript, Google Places API, OpenStreetMap, Supabase, Chart.js, Leaflet |
 | [**Site da Faro Digital**](https://github.com/viniciuspnasc/faro-digital-site) | Site institucional da empresa, com vídeo animado da placa NFC feito em canvas. [No ar](https://site.farodigital.workers.dev/) | HTML, CSS, JavaScript, Cloudflare Workers |
-| [**Monolith: banco de dados**](https://github.com/viniciuspnasc/monolith-banco-de-dados) | Banco MySQL do e-commerce do Projeto Integrador da faculdade, com 9 tabelas, herança de pagamentos e views para o painel administrativo. | MySQL 8, Aiven |
+| [**Monolith: loja de roupas**](https://github.com/viniciuspnasc/monolith-banco-de-dados) | E-commerce do Projeto Integrador da faculdade, feito em grupo: catálogo, carrinho, checkout com Pix, cartão e boleto e painel administrativo, com API serverless ligada a um banco MySQL de 9 tabelas. [No ar](https://temquedobrar.netlify.app/) | React, Netlify Functions, MySQL 8, Aiven |
 | [**Portfólio**](https://github.com/viniciuspnasc/portfolio) | Meu site pessoal, em uma única página, sem framework. [No ar](https://site.viniciuspinheiro.workers.dev/) | HTML, CSS, JavaScript, Cloudflare Workers |
 
 ## O que eu uso
